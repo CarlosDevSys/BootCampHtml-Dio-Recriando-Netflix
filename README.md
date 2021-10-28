@@ -8,3 +8,5 @@ pagina da netflix "Cloneflix", onde foram aplicados técnicas de responsividade,
 ### * CSS
 ### * JAVASCRIPT
 ### * JQUERY
+
+![img](https://github.com/CarlosDevSys/BootCampHtml-Dio-Recriando-Netflix/blob/7233fd26608ca8741595317e71f640ac93f3b431/img/site.png)
